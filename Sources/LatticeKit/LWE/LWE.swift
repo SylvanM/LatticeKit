@@ -6,3 +6,18 @@
 //
 
 import Foundation
+
+/**
+ * The Learning With Errors encryption scheme over integer lattices
+ */
+public struct LWE: PKEScheme {
+    
+    typealias SecretKey = <#type#>
+    
+    typealias PublicKey = <#type#>
+    
+    typealias Plaintext = <#type#>
+    
+    typealias Ciphertext = <#type#>
+
+}
