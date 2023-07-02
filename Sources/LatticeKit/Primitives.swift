@@ -11,7 +11,7 @@ import Foundation
 /**
  * A public key encryption scheme
  */
-protocol PKEScheme {
+public protocol PKEScheme {
     
     // MARK: Types
     
